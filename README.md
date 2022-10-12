@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud security Projects:</h2>
 
-- <b>AWS HANDS ON LAB PROJECTS (AlgoExpert)</b>
+- <b>AWS HANDS ON LAB PROJECTS </b>
   - [Setting up AWS budget ](https://github.com/Orobedo/AWS-BUDGET)
   - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 -[Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
