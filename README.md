@@ -8,10 +8,8 @@
   - [Setting up AWS budget ](https://github.com/Orobedo/AWS-BUDGET)
   <b> </b>
   - [AWS IAM user creation Lab ](https://github.com/Orobedo/AWS-Identity-and-access-management-IAM-/blob/main/README.md)
-  
--[](https://github.com/Orobedo/AWS-Identity-and-access-management-IAM-/blob/main/README.md)
 
-  - [Setting up AWS budget ](https://github.com/Orobedo/AWS-BUDGET)
+  - [Adding IAM inline policy to a user ](https://github.com/Orobedo/IAM-INLINE-POLICY/blob/main/README.md)
   <b> </b>
 
 <h2>📺 Popular YouTube Videos</h2>
