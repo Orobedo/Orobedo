@@ -1,12 +1,15 @@
 <h1>Hi, I'm Sonia! 
   A cybersecurity/ cloud security analyst </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+  Welcome to my LAB!
 
 <h2>👨‍💻 Cloud security Projects:</h2>
 
 - <b>AWS HANDS ON LAB PROJECTS </b>
   - [Setting up AWS budget ](https://github.com/Orobedo/AWS-BUDGET)
-  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
--[Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  <b> </b>
+  - [AWS IAM user creation Lab ](https://github.com/Orobedo/AWS-Identity-and-access-management-IAM-/blob/main/README.md)
+  
+-[](https://github.com/Orobedo/AWS-Identity-and-access-management-IAM-/blob/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
