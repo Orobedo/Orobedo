@@ -11,6 +11,9 @@
   
 -[](https://github.com/Orobedo/AWS-Identity-and-access-management-IAM-/blob/main/README.md)
 
+  - [Setting up AWS budget ](https://github.com/Orobedo/AWS-BUDGET)
+  <b> </b>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Active Directory Homelab](https://www.youtube.com/watch?v=a83ASGn_V_s)
